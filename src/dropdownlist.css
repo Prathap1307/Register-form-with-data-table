@@ -1,0 +1,29 @@
+.addbtn{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.Search{
+    display: flex;
+}
+.Search>input{
+    width: 50%;
+    height: 10%;
+    margin-top:15px;
+    margin-left: 20px;
+    background-color: #567189;
+    border: 0;
+    border-bottom: 1px solid white;
+    color: white;
+}
+.dropdown{
+    display: flex;
+    align-items: center;
+}
+.dropdown>p{
+    margin-left: 15px;
+}
+.dropdown-selected {
+    background-color: green;
+  }

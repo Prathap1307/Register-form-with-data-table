@@ -1,0 +1,8 @@
+.hello{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 100px;
+    font-size: 100px;
+    font-family: 'Lora', serif;
+    color: #B2B2B2;
+}

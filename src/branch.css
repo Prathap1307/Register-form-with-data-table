@@ -1,0 +1,18 @@
+.DropDown{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    border-bottom: 1px solid;
+    color: whitesmoke; 
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .DropDown>p{
+    margin-right: 10px;
+  } 
+  .drop-downlist{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
